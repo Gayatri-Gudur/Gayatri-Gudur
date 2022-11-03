@@ -11,10 +11,10 @@
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/gayatrrigudur/">
-    <img src="https://img.shields.io/badge/Rkesh Gudur-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Gayatri Gudur-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:gayatrrigudur@gmail.com">
-    <img src="https://img.shields.io/badge//Rakesh Gudur-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge//Gayatri Gudur-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
 </div>
